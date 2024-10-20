@@ -89,16 +89,11 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Data_Science_Projects_anderson_83&theme=dark" />
 </a>
 
+<a href="https://github.com/anderson-ferreira-83/Data_Engineering_Projects_anderson_83">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Data_Engineering_Projects_anderson_83&theme=dark" />
+</a>
+
 <a href="https://github.com/anderson-ferreira-83/Phd_Thesis_Projects_anderson_83">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Phd_Thesis_Projects_anderson_83&theme=dark" />
 </a>
 
-## 🔭 &nbsp; Courses Taken
-
-<a href="https://github.com/anderson-ferreira-83/Course_AI_Cloud_Practioner_Udemy_Frank_anderson_83">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=AI_Cloud_Practioner_Udemy_Frank_anderson_83&theme=dark" />
-</a>
-
-<a href="https://github.com/anderson-ferreira-83/Course_Machine_Learning_Michigan_University_anderson_83">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Machine_Learning_Michigan_University_anderson_83&theme=dark" />
-</a>
