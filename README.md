@@ -10,6 +10,8 @@
 
 ### Welcome to my Git!
 
+🎸 Fun fact: I’m passionate about music and play both acoustic and electric guitar!
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-henrique-rodrigues-ferreira-1a473138/)](https://www.linkedin.com/in/anderson-henrique-rodrigues-ferreira-1a473138/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@derdickferreira)](https://medium.com/@derdickferreira)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=a058899@dac.unicamp.br)](mailto:a058899@dac.unicamp.br)
@@ -26,8 +28,6 @@
 - Feature engineering, hyperparameter tuning (GridSearch/RandomSearch);
 - Cross-validation and model evaluation;
 - MLOps for deployment and monitoring of models.
-
-🎸 Fun fact: I’m passionate about music and play both acoustic and electric guitar!
 
 ---
 
