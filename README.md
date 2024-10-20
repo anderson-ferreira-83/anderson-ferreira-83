@@ -34,28 +34,38 @@
 - **Deep Learning**: Neural Networks (CNNs, RNNs)
 - **NLP**: NLTK, SpaCy, Hugging Face Transformers
 
+## 💾  Data Engineering Skills:
+- **Data Pipelines**: Understanding ETL (Extract, Transform, Load) processes and automation using tools such as Apache Airflow and Bash scripting.
+- **Data Warehousing**: Basic knowledge of designing and populating Data Warehouses using platforms like Amazon Redshift and Google BigQuery.
+- **Big Data Technologies**: Experience with Apache Hadoop and Spark for handling large-scale datasets and distributed computing.
+- **Databases**: Working with relational databases like MySQL and PostgreSQL, as well as NoSQL databases such as MongoDB and Cassandra.
+- **Cloud Computing**: Basic concepts in cloud platforms like AWS and Google Cloud Platform, with a focus on deploying machine learning models and managing big data.
+
 ## 🛠 &nbsp;My Skill Set:
 
 ### Programming & Tools:
-- **Languages**: Python, Bash, SQL
+- **Languages**: Python, Bash, SQL, Matlab
 - **Data Science**: Scikit-learn, TensorFlow, Keras, PyTorch, Numpy, Pandas, Statsmodels
 - **Visualization**: Matplotlib, Seaborn, Plotly, Dash
 - **Version Control**: Git, GitHub, Docker
 - **Cloud Platforms**: AWS, GCP
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block; font-size: 0;">
   <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Numpy" height="75" width="75" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original-wordmark.svg">
-  <img align="center" alt="Pandas" height="75" width="75" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="Numpy" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Pandas" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original.svg">
   <img align="center" alt="Scikit-learn" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
   <img align="center" alt="TensorFlow" height="50" width="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
   <img align="center" alt="Keras" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
   <img align="center" alt="PyTorch" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png">
   <img align="center" alt="Matplotlib" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
   <img align="center" alt="Seaborn" height="50" width="50" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg">
-  <img align="center" alt="Plotly" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/480px-Plotly-logo-01-square.png">
+  <img align="center" alt="Plotly" height="50" width="50" src="https://raw.githubusercontent.com/plotly/plotly/master/plotly_logo.png">
   <img align="center" alt="Git" height="50" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img align="center" alt="MATLAB" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/21/MATLAB_Logo.png">
 </div>
+
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 
