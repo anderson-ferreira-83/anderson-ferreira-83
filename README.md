@@ -63,7 +63,7 @@ Create BI reports & interactive dashboards;
 ## 🚀 &nbsp;Main Projects Repo
 
 <a href="https://github.com/anderson-ferreira-83/Data_Science_Projects_anderson_83">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Data_Science_anderson_83&theme=dark" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Data_Science_Projects_anderson_83&theme=dark" />
 </a>
 
 <a href="https://github.com/anderson-ferreira-83/Data_Engineering_Projects_anderson_83">
