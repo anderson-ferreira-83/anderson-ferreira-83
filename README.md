@@ -1,8 +1,12 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anderson-ferreira-83&color=yellow" alt="Profile views"/>
+  
 ## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Anderson Ferreira
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anderson-ferreira-83&color=yellow" alt="Profile views"/>
+## I'm a Data Scientist!! 
 
-## I'm a Data Scientist and Guitarplayer!! 🎸
+![Welcome to my GitHub](GithubProfile.png)
+
+### Welcome to my Git!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-henrique-rodrigues-ferreira-1a473138/)](https://www.linkedin.com/in/anderson-henrique-rodrigues-ferreira-1a473138/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@derdickferreira)](https://medium.com/@derdickferreira)
