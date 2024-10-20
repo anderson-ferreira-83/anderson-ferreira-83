@@ -4,7 +4,9 @@
 
 ## I'm a Data Scientist!! 
 
-![Welcome to my GitHub](GithubProfile.png)
+<p align="center">
+  <img src="GithubProfile.png" alt="Welcome to my GitHub" width="650" height="650">
+</p>
 
 ### Welcome to my Git!
 
