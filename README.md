@@ -4,13 +4,11 @@
 
 ## I'm a Data Scientist!! 
 
+### Welcome to my Git!
+
 <p align="center">
   <img src="GithubProfile.png" alt="Welcome to my GitHub" width="650" height="650">
 </p>
-
-### Welcome to my Git!
-
-🎸 Fun fact: I’m passionate about music and play both acoustic and electric guitar!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-henrique-rodrigues-ferreira-1a473138/)](https://www.linkedin.com/in/anderson-henrique-rodrigues-ferreira-1a473138/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@derdickferreira)](https://medium.com/@derdickferreira)
@@ -72,7 +70,6 @@
 </div>
 
 
-
 ## ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/anderson-ferreira-83">
@@ -109,6 +106,6 @@
     </div>
 </div>
 
-
+🎸 Fun fact: I’m passionate about music and play both acoustic and electric guitar!
 
 
