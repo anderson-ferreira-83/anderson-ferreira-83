@@ -101,7 +101,7 @@
         <h4>PhD Thesis Projects</h4>
         <p>Pesquisa aplicada em Vibroacústica e Machine Learning.</p>
         <a href="https://github.com/anderson-ferreira-83/Phd_Thesis_Projects_anderson_83" target="_blank">
-            <img height="90em" src="https://github.com/anderson-ferreira-83/Artigo_1_publish_comp_lattices_thin_plate_2023_anderson_83&theme=dark"/>
+            <img height="90em" src="https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Artigo_1_publish_comp_lattices_thin_plate_2023_anderson_83&theme=dark"/>
         </a>
     </div>
 </div>
