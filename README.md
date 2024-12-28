@@ -85,14 +85,14 @@
 <div style="display: flex; justify-content: space-between;">
     <div style="text-align: center;">
         <h4>Data Science Projects</h4>
-        <p>Exploração e modelagem de dados em Machine Learning.</p>
+        <p>Data Exploration and Modeling in Machine Learning.</p>
         <a href="https://github.com/anderson-ferreira-83/Data_Science_Repo_anderson83" target="_blank">
             <img height="90em" src="https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Data_Science_Projects_anderson_83&theme=dark"/>
         </a>
     </div>
     <div style="text-align: center;">
         <h4>Data Engineering Projects</h4>
-        <p>Implementação de pipelines e arquiteturas de dados.</p>
+        <p>Implementation of pipelines and data architectures.</p>
         <a href="https://github.com/anderson-ferreira-83/Data_Engineering_Projects_anderson_83
 " target="_blank">
             <img height="90em" src="https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Data_Engineering_Projects_anderson_83&theme=dark"/>
@@ -100,7 +100,7 @@
     </div>
     <div style="text-align: center;">
         <h4>PhD Thesis Projects</h4>
-        <p>Pesquisa aplicada em Vibroacústica e Machine Learning.</p>
+        <p>Applied research in Vibroacoustics and Machine Learning.</p>
         <a href="https://github.com/anderson-ferreira-83/Article_publish_comp_lattices_thin_plate_2023_anderson_83" target="_blank">
             <img height="90em" src="https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Article_publish_comp_lattices_thin_plate_2023_anderson_83&theme=dark"/>
         </a>
