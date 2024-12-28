@@ -86,14 +86,14 @@
     <div style="text-align: center;">
         <h4>Data Science Projects</h4>
         <p>Exploração e modelagem de dados em Machine Learning.</p>
-        <a href="https://github.com/anderson-ferreira-83/Data_Science_Projects_anderson_83" target="_blank">
+        <a href="https://github.com/anderson-ferreira-83/Data_Science_Projects_anderson_83/1_Alura_Voz" target="_blank">
             <img height="90em" src="https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Data_Science_Projects_anderson_83&theme=dark"/>
         </a>
     </div>
     <div style="text-align: center;">
         <h4>Data Engineering Projects</h4>
         <p>Implementação de pipelines e arquiteturas de dados.</p>
-        <a href="https://github.com/anderson-ferreira-83/Data_Engineering_Projects_anderson_83/1_Alura_Voz
+        <a href="https://github.com/anderson-ferreira-83/Data_Engineering_Projects_anderson_83
 " target="_blank">
             <img height="90em" src="https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Data_Engineering_Projects_anderson_83&theme=dark"/>
         </a>
