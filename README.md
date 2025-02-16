@@ -97,8 +97,7 @@
         <a href="https://github.com/anderson-ferreira-83/Data_Science_Learning" target="_blank">
             <img height="90em" src="https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Data_Science_Learning_Repo_anderson83&theme=dark"/>
         </a>
-    </div>
-  
+    </div> 
     <div style="text-align: center;">
         <h4>Data Engineering Projects</h4>
         <p>Implementation of pipelines and data architectures.</p>
@@ -109,7 +108,7 @@
     <div style="text-align: center;">
         <h4>PhD Thesis Projects</h4>
         <p>Applied research in Vibroacoustics and Machine Learning.</p>
-        <a href="https://github.com/anderson-ferreira-83/Article_publish_comp_lattices_thin_plate_2023_anderson_83" target="_blank">
+        <a href="https://github.com/anderson-ferreira-83/Article_publish_comp_lattices_thin_plate" target="_blank">
             <img height="90em" src="https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Article_publish_comp_lattices_thin_plate_2023_anderson_83&theme=dark"/>
         </a>
     </div>
