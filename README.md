@@ -10,10 +10,11 @@
   <img src="GithubProfile.png" alt="Welcome to my GitHub" width="600" height="600">
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-henrique-rodrigues-ferreira-1a473138/)](https://www.linkedin.com/in/anderson-henrique-rodrigues-ferreira-1a473138/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@derdickferreira)](https://medium.com/@derdickferreira)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=a058899@dac.unicamp.br)](mailto:a058899@dac.unicamp.br)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/anderson83data)](https://www.kaggle.com/anderson83data)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-henrique-rodrigues-ferreira-1a473138/)  
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@derdickferreira)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a058899@dac.unicamp.br)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/anderson83data)  
+
 
 ## 🎲 Data Scientist
 
