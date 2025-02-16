@@ -78,7 +78,7 @@
 | Data Engineering Projects | PhD Thesis Projects |
 |--------------------------|----------------------|
 | **Implementation of pipelines and data architectures.** | **Applied research in Vibroacoustics and Machine Learning.** |
-| [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Data_Engineering_Projects_anderson_83&theme=dark)](https://github.com/anderson-ferreira-83/Data_Engineering_Projects) | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Article_publish_comp_lattices_thin_plate_2023_anderson_83&theme=dark)](https://github.com/anderson-ferreira-83/Article_publish_comp_lattices_thin_plate) |
+| [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Data_Engineering_Projects_anderson_83&theme=dark)](https://github.com/anderson-ferreira-83/Data_Engineering_Projects_anderson_83) | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Article_publish_comp_lattices_thin_plate_2023_anderson_83&theme=dark)](https://github.com/anderson-ferreira-83/Article_publish_comp_lattices_thin_plate_2023_anderson_83) |
 
 ## 🎸 Fun Fact  
 
