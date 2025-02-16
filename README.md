@@ -101,6 +101,9 @@
     </div>
 </div>
 
-🎸 Fun fact: I’m passionate about music and play both acoustic and electric guitar!
+
+## 🎸 Fun Fact  
+
+🎶 I’m passionate about music and play both acoustic and electric guitar! 
 
 
