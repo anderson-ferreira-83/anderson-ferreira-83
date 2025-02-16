@@ -1,13 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anderson-ferreira-83&color=yellow" alt="Profile views"/>
   
-## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Anderson Ferreira
+## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35px">, I'm Anderson Ferreira
 
 ## I'm a Data Scientist!! 
 
 ### Welcome to my Git!
 
 <p align="center">
-  <img src="GithubProfile.png" alt="Welcome to my GitHub" width="650" height="650">
+  <img src="GithubProfile.png" alt="Welcome to my GitHub" width="600" height="600">
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-henrique-rodrigues-ferreira-1a473138/)](https://www.linkedin.com/in/anderson-henrique-rodrigues-ferreira-1a473138/)
