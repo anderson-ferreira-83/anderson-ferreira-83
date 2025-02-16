@@ -86,15 +86,15 @@
     <div style="text-align: center;">
         <h4>Data Science Projects</h4>
         <p>Data Exploration and Modeling in Machine Learning.</p>
-        <a href="https://github.com/anderson-ferreira-83/Data_Science_Projects" target="_blank">
+        <a href="https://github.com/anderson-ferreira-83/Data_Science_Repo_anderson83" target="_blank">
             <img height="90em" src="https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Data_Science_Projects_anderson_83&theme=dark"/>
         </a>
     </div>
 <div style="display: flex; justify-content: space-between;">
     <div style="text-align: center;">
-        <h4>Data Science Projects</h4>
-        <p>Data Exploration and Modeling in Machine Learning.</p>
-        <a href="https://github.com/anderson-ferreira-83/Data_Science_Learning" target="_blank">
+        <h4>Data Science Learning</h4>
+        <p>Studies of Machine Learning techniques.</p>
+        <a href="https://github.com/anderson-ferreira-83/Data_Science_Learning_Repo_anderson83" target="_blank">
             <img height="90em" src="https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Data_Science_Learning_Repo_anderson83&theme=dark"/>
         </a>
     </div> 
