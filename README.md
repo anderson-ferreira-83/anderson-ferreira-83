@@ -55,18 +55,19 @@
 - **Cloud Platforms**: AWS, GCP
 
 <div style="display: inline_block; font-size: 0;">
-  <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Numpy" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Pandas" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Scikit-learn" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
-  <img align="center" alt="TensorFlow" height="50" width="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
-  <img align="center" alt="Keras" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
-  <img align="center" alt="PyTorch" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png">
-  <img align="center" alt="Matplotlib" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
-  <img align="center" alt="Seaborn" height="50" width="50" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg">
-  <img align="center" alt="Plotly" height="50" width="50" src="https://raw.githubusercontent.com/plotly/plotly/master/plotly_logo.png">
-  <img align="center" alt="Git" height="50" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img align="center" alt="MATLAB" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/21/MATLAB_Logo.png">
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
+![Seaborn](https://img.shields.io/badge/Seaborn-0080C9?style=for-the-badge&logo=Seaborn&logoColor=white)  
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![MATLAB](https://img.shields.io/badge/MATLAB-%23e16737.svg?style=for-the-badge&logo=Mathworks&logoColor=white)  
+
 </div>
 
 
