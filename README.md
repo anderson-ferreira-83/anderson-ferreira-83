@@ -54,7 +54,7 @@
 - **Version Control**: Git, GitHub, Docker
 - **Cloud Platforms**: AWS, GCP
 
-<div style="display: inline_block; font-size: 0;">
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
@@ -68,7 +68,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23e16737.svg?style=for-the-badge&logo=Mathworks&logoColor=white)  
 
-</div>
+
 
 
 ## ⚙️ &nbsp;GitHub Analytics
