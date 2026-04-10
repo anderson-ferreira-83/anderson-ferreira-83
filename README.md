@@ -48,15 +48,15 @@ Deep expertise in **model validation**, **feature engineering**, and **evaluatio
 
 ## 🚀 Main Projects
 
-| Data Science Projects | Data Science Learning |
+| IoT End-to-End ML Pipeline | Hypertension Risk Prediction |
 |---|---|
-| **Data Exploration and Modeling in Machine Learning.** | **Studies of Machine Learning techniques.** |
-| [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Data_Science_Projects_anderson_83&theme=dark)](https://github.com/anderson-ferreira-83/Data_Science_Repo_anderson83) | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Data_Science_Learning_Repo_anderson83&theme=dark)](https://github.com/anderson-ferreira-83/Data_Science_Learning_Repo_anderson83) |
+| **Signal classification with ESP32 · FastAPI · Oracle XE · Random Forest** | **Imbalanced-class ML evaluation with SMOTE and threshold analysis** |
+| [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=oracle_fast_api_iot_esp32_MPU6050_project&theme=dark)](https://github.com/anderson-ferreira-83/oracle_fast_api_iot_esp32_MPU6050_project) | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Hyperten_ML&theme=dark)](https://github.com/anderson-ferreira-83/Hyperten_ML) |
 
-| Data Engineering Projects | PhD Research |
+| PhD Research — ML Applied | MSSP Publication (IF 8.9) |
 |---|---|
-| **Implementation of pipelines and data architectures.** | **Applied research in Vibroacoustics and Machine Learning.** |
-| [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Data_Engineering_Projects_anderson_83&theme=dark)](https://github.com/anderson-ferreira-83/Data_Engineering_Projects_anderson_83) | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Article_publish_comp_lattices_thin_plate_2023_anderson_83&theme=dark)](https://github.com/anderson-ferreira-83/Article_publish_comp_lattices_thin_plate_2023_anderson_83) |
+| **Machine learning applied to thin-plate vibroacoustic modeling** | **Peer-reviewed article · Mechanical Systems and Signal Processing · 2026** |
+| [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=machine_learning_mindlin_stl&theme=dark)](https://github.com/anderson-ferreira-83/machine_learning_mindlin_stl) | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Artigo_1_revista_comp_lattices_thin_plate_2023_v_revisao&theme=dark)](https://github.com/anderson-ferreira-83/Artigo_1_revista_comp_lattices_thin_plate_2023_v_revisao) |
 
 ---
 
