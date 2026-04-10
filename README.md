@@ -1,64 +1,93 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anderson-ferreira-83&color=yellow" alt="Profile views"/>
-  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=anderson-ferreira-83&color=yellow" alt="Profile views"/>
+</p>
+
 ## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35px">, I'm Anderson Ferreira
 
-## I'm a Data Scientist!! 
+## PhD Researcher · Signal Processing & Applied ML · UNICAMP
 
 ### Welcome to my Git!
 
 <p align="center">
-  <img src="GithubProfile.png" alt="Welcome to my GitHub" width="600" height="600">
+  <img src="GithubProfile.png" alt="Welcome to my GitHub" width="480" height="480">
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-henrique-rodrigues-ferreira-1a473138/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@derdickferreira) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a058899@dac.unicamp.br) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&logoWidth=30)](https://www.kaggle.com/anderson83data)
-
-
-## 🎲 Data Scientist
-
-🔬 Currently pursuing my PhD at the Vibroacoustic Laboratory (Unicamp), with a research focus on leveraging advanced data science and machine learning techniques to address complex engineering challenges, particularly in the domains of vibration and acoustic.
-
-🌱 Continuously expanding my expertise in Machine Learning, with focus on:
-
-- Building models with Scikit-learn, TensorFlow, and PyTorch;
-- Data manipulation and analysis using Pandas, Numpy, and SciPy;
-- Feature engineering, hyperparameter tuning (GridSearch/RandomSearch);
-- Cross-validation and model evaluation;
-- MLOps for deployment and monitoring of models.
+[![Portfolio](https://img.shields.io/badge/Portfolio-anderson--ferreira--83.github.io-003d7a?style=for-the-badge&logo=githubpages&logoColor=white)](https://anderson-ferreira-83.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-henrique-rodrigues-ferreira-1a473138/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@derdickferreira)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a058899@dac.unicamp.br)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/anderson83data)
 
 ---
 
-## 💻 &nbsp;Machine Learning Skills:
+## 🔬 About Me
 
-- **Libraries/Frameworks**: Scikit-learn, TensorFlow, Keras, PyTorch
-- **Data Manipulation**: Pandas, Numpy, SciPy
-- **Model Evaluation**: Cross-validation, GridSearch, RandomSearch
-- **MLOps/Deployment**: Docker, MLFlow, FastAPI
-- **Deep Learning**: Neural Networks (CNNs, RNNs)
-- **NLP**: NLTK, SpaCy, Hugging Face, Transformers
+PhD candidate in Mechanical Engineering at UNICAMP (Vibroacoustics Laboratory), with applied research in **signal processing**, **sensor systems**, and **machine learning evaluation** for real-world operational data.
 
-## 💾  Data Engineering Skills:
-- **Data Pipelines**: Understanding ETL (Extract, Transform, Load) processes and automation using tools such as Apache Airflow and Bash scripting.
-- **Data Warehousing**: Basic knowledge of designing and populating Data Warehouses using platforms like Amazon Redshift and Google BigQuery.
-- **Big Data Technologies**: Experience with Apache Hadoop and Spark for handling large-scale datasets and distributed computing.
-- **Databases**: Working with relational databases like MySQL and PostgreSQL, as well as NoSQL databases such as MongoDB and Cassandra.
-- **Cloud Computing**: Basic concepts in cloud platforms like AWS and Google Cloud Platform, with a focus on deploying machine learning models and managing big data.
+- 📄 Paper accepted at *Mechanical Systems and Signal Processing* (MSSP, 2026 · IF 8.9)
+- 🏆 AWS Certified AI Practitioner
+- 🎓 MSc in Mechanical Engineering — UNICAMP (2013) · BS in Physics — UNICAMP (2010)
+- 👨‍🏫 Adjunct Professor — Cruzeiro do Sul Educacional (Feb 2025–present)
 
-## 🛠 &nbsp;My Skill Set:
+Deep expertise in **model validation**, **feature engineering**, and **evaluation design** — including identifying where and why ML approaches fall short in domain-specific problems.
 
-### Programming & Tools:
-- **Languages**: Python, Bash, SQL, Matlab
-- **Data Science**: Scikit-learn, TensorFlow, Keras, PyTorch, Numpy, Pandas, Statsmodels
-- **Visualization**: Matplotlib, Seaborn, Plotly, Dash
-- **Version Control**: Git, GitHub, Docker
-- **Cloud Platforms**: AWS, GCP
+---
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-0080C9?style=for-the-badge&logo=Seaborn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%23e16737.svg?style=for-the-badge&logo=Mathworks&logoColor=white)
+## 🌐 Portfolio
 
+> Projects, CV, and research showcase:
+> **[anderson-ferreira-83.github.io](https://anderson-ferreira-83.github.io/)**
 
-## ⚙️ &nbsp;GitHub Analytics
+| Project | Highlights |
+|---|---|
+| **IoT End-to-End ML Pipeline** | ESP32 · 210k records · 104→16 features · Random Forest 97.34% ± 0.63% CV |
+| **Hypertension Risk Prediction** | SMOTE · 4,240 samples · Data leakage prevention · Multi-metric evaluation |
+| **MSSP Publication (2026)** | Signal processing · 5 geometries compared · Data-driven approach · IF 8.9 |
+
+---
+
+## 🚀 Main Projects
+
+| Data Science Projects | Data Science Learning |
+|---|---|
+| **Data Exploration and Modeling in Machine Learning.** | **Studies of Machine Learning techniques.** |
+| [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Data_Science_Projects_anderson_83&theme=dark)](https://github.com/anderson-ferreira-83/Data_Science_Repo_anderson83) | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Data_Science_Learning_Repo_anderson83&theme=dark)](https://github.com/anderson-ferreira-83/Data_Science_Learning_Repo_anderson83) |
+
+| Data Engineering Projects | PhD Research |
+|---|---|
+| **Implementation of pipelines and data architectures.** | **Applied research in Vibroacoustics and Machine Learning.** |
+| [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Data_Engineering_Projects_anderson_83&theme=dark)](https://github.com/anderson-ferreira-83/Data_Engineering_Projects_anderson_83) | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Article_publish_comp_lattices_thin_plate_2023_anderson_83&theme=dark)](https://github.com/anderson-ferreira-83/Article_publish_comp_lattices_thin_plate_2023_anderson_83) |
+
+---
+
+## 💻 Technical Skills
+
+**Domain** · Physics · Signal Processing · Sensor Systems · Statistical Modeling · Data-Driven Analysis
+
+**ML / Stats** · Random Forest · SMOTE · SHAP · Feature Engineering · Cross-validation · Threshold Analysis · AUC-ROC · EDA · Applied Statistics
+
+**Tools** · Python · SQL · Java · scikit-learn · FastAPI · Docker · AWS · Oracle SQL
+
+**Visualization** · Matplotlib · Seaborn · Plotly
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23e16737.svg?style=for-the-badge&logo=Mathworks&logoColor=white)
+
+---
+
+## ⚙️ GitHub Analytics
 
 <a href="https://github.com/anderson-ferreira-83">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=anderson-ferreira-83&show_icons=true&theme=dark&include_commits=true"/>
@@ -68,20 +97,8 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-ferreira-83&layout=compact&langs_count=8&theme=dark"/>
 </a>
 
-## 🚀 &nbsp;Main Projects Repo  
+---
 
-| Data Science Projects | Data Science Learning |
-|----------------------|----------------------|
-| **Data Exploration and Modeling in Machine Learning.** | **Studies of Machine Learning techniques.** |
-| [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Data_Science_Projects_anderson_83&theme=dark)](https://github.com/anderson-ferreira-83/Data_Science_Repo_anderson83) | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Data_Science_Learning_Repo_anderson83&theme=dark)](https://github.com/anderson-ferreira-83/Data_Science_Learning_Repo_anderson83) |
+## 🎸 Fun Fact
 
-| Data Engineering Projects | PhD Thesis Projects |
-|--------------------------|----------------------|
-| **Implementation of pipelines and data architectures.** | **Applied research in Vibroacoustics and Machine Learning.** |
-| [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Data_Engineering_Projects_anderson_83&theme=dark)](https://github.com/anderson-ferreira-83/Data_Engineering_Projects_anderson_83) | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Article_publish_comp_lattices_thin_plate_2023_anderson_83&theme=dark)](https://github.com/anderson-ferreira-83/Article_publish_comp_lattices_thin_plate_2023_anderson_83) |
-
-## 🎸 Fun Fact  
-
-🎶 I’m passionate about music and play both acoustic and electric guitar! 
-
-
+🎶 Passionate about music — I play both acoustic and electric guitar!
