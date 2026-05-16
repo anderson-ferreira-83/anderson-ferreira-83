@@ -9,7 +9,7 @@
 ### Welcome to my Git!
 
 <p align="center">
-  <img src="./banner_linkedin3.png" alt="Welcome banner">
+  <img src="./banner_ander_ferre_vibration.png" alt="Welcome banner">
 </p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-anderson--ferreira--83.github.io-003d7a?style=for-the-badge&logo=githubpages&logoColor=white)](https://anderson-ferreira-83.github.io/)
