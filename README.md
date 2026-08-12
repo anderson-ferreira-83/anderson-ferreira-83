@@ -48,15 +48,29 @@ Deep expertise in **model validation**, **feature engineering**, and **evaluatio
 
 ## 🚀 Main Projects
 
-| IoT End-to-End ML Pipeline | Hypertension Risk Prediction |
-|---|---|
-| **Signal classification with ESP32 · FastAPI · Oracle XE · Random Forest** | **Imbalanced-class ML evaluation with SMOTE and threshold analysis** |
-| [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=oracle_fast_api_iot_esp32_MPU6050_project&theme=dark)](https://github.com/anderson-ferreira-83/oracle_fast_api_iot_esp32_MPU6050_project) | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Hyperten_ML&theme=dark)](https://github.com/anderson-ferreira-83/Hyperten_ML) |
+#### 📡 IoT End-to-End ML Pipeline
 
-| PhD Research — ML Applied | MSSP Publication (IF 8.9) |
-|---|---|
-| **Machine learning applied to thin-plate vibroacoustic modeling** | **Peer-reviewed article · Mechanical Systems and Signal Processing · 2026** |
-| [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=machine_learning_mindlin_stl&theme=dark)](https://github.com/anderson-ferreira-83/machine_learning_mindlin_stl) | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anderson-ferreira-83&repo=Artigo_1_revista_comp_lattices_thin_plate_2023_v_revisao&theme=dark)](https://github.com/anderson-ferreira-83/Artigo_1_revista_comp_lattices_thin_plate_2023_v_revisao) |
+Signal classification with **ESP32**, **FastAPI**, **Oracle XE**, and **Random Forest**.
+
+→ **[View repository](https://github.com/anderson-ferreira-83/oracle_fast_api_iot_esp32_MPU6050_project)**
+
+#### 🩺 Hypertension Risk Prediction
+
+Imbalanced-class machine learning evaluation with **SMOTE** and threshold analysis.
+
+→ **[View repository](https://github.com/anderson-ferreira-83/Hyperten_ML)**
+
+#### 🤖 PhD Research — ML Applied
+
+Machine learning applied to thin-plate vibroacoustic modeling.
+
+→ **[View repository](https://github.com/anderson-ferreira-83/machine_learning_mindlin_stl)**
+
+#### 📄 MSSP Publication (IF 8.9)
+
+Peer-reviewed article published in *Mechanical Systems and Signal Processing* (2026).
+
+→ **[View repository](https://github.com/anderson-ferreira-83/Artigo_1_revista_comp_lattices_thin_plate_2023_v_revisao)**
 
 ---
 
