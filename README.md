@@ -6,9 +6,11 @@
   Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35px" alt="">, I'm Anderson Ferreira
 </h1>
 
-<h3 align="center">PhD Researcher · Signal Processing & Applied ML · UNICAMP</h3>
+<h3 align="center">Applied Machine Learning & Data Science · Signal Processing · IoT Systems · AWS</h3>
 
-<p align="center"><strong>Welcome to my Git!</strong></p>
+<p align="center"><strong>Open to industry opportunities in Applied ML, Data Science, ML Engineering, and R&amp;D.</strong></p>
+
+<p align="center">Welcome to my Git!</p>
 
 <p align="center">
   <img src="./banner_ander_ferre_vibration.png" width="100%" alt="Welcome banner">
@@ -24,16 +26,28 @@
 
 ---
 
-## 🔬 About Me
+## 👤 Professional Profile
 
-PhD candidate in Mechanical Engineering at UNICAMP (Vibroacoustics Laboratory), with applied research in **signal processing**, **sensor systems**, and **machine learning evaluation** for real-world operational data.
+Applied Machine Learning and Data Science professional with a strong research background, focused on building and evaluating reliable solutions for **signal processing**, **sensor systems**, **IoT**, and real-world operational data.
+
+Currently a PhD candidate in Mechanical Engineering at UNICAMP (Vibroacoustics Laboratory).
 
 - 📄 Paper accepted at *Mechanical Systems and Signal Processing* (MSSP, 2026 · IF 8.9)
 - 🏆 AWS Certified AI Practitioner
 - 🎓 MSc in Mechanical Engineering — UNICAMP (2013) · BS in Physics — UNICAMP (2010)
 - 👨‍🏫 Adjunct Professor — Cruzeiro do Sul Educacional (Feb 2025–present)
 
-Deep expertise in **model validation**, **feature engineering**, and **evaluation design** — including identifying where and why ML approaches fall short in domain-specific problems.
+Strong expertise in **model validation**, **feature engineering**, and **evaluation design**, with particular attention to data leakage, model reliability, and performance under real-world conditions.
+
+---
+
+## 🎯 Industry Focus
+
+- **End-to-end ML pipelines** · Sensor acquisition · Feature engineering · APIs · Databases · Model evaluation
+- **Sensor and IoT data** · ESP32 · Operational signals · Real-world data workflows
+- **Reliable ML evaluation** · Data leakage prevention · Cross-validation · Imbalanced-class analysis · Threshold selection
+- **Production-oriented tools** · Python · SQL · FastAPI · Oracle SQL · Docker · AWS
+- **Decision-ready analysis** · Statistical modeling · Reproducible results · Clear visualization
 
 ---
 
@@ -56,25 +70,25 @@ Deep expertise in **model validation**, **feature engineering**, and **evaluatio
 
 ### 📡 IoT End-to-End ML Pipeline
 
-> Signal classification with **ESP32**, **FastAPI**, **Oracle XE**, and **Random Forest**.
+> End-to-end signal classification pipeline integrating **ESP32**, **FastAPI**, **Oracle XE**, and **Random Forest** across **210k records**.
 >
 > → **[View repository](https://github.com/anderson-ferreira-83/oracle_fast_api_iot_esp32_MPU6050_project)**
 
 ### 🩺 Hypertension Risk Prediction
 
-> Imbalanced-class machine learning evaluation with **SMOTE** and threshold analysis.
+> Reliable imbalanced-class ML evaluation across **4,240 samples**, with **SMOTE**, data leakage prevention, multi-metric validation, and threshold analysis.
 >
 > → **[View repository](https://github.com/anderson-ferreira-83/Hyperten_ML)**
 
 ### 🤖 PhD Research — ML Applied
 
-> Machine learning applied to thin-plate vibroacoustic modeling.
+> Applied machine learning for thin-plate vibroacoustic modeling, combining physical-domain knowledge with data-driven analysis.
 >
 > → **[View repository](https://github.com/anderson-ferreira-83/machine_learning_mindlin_stl)**
 
 ### 📄 MSSP Publication (IF 8.9)
 
-> Peer-reviewed article published in *Mechanical Systems and Signal Processing* (2026).
+> Peer-reviewed research published in *Mechanical Systems and Signal Processing* (2026).
 >
 > → **[View repository](https://github.com/anderson-ferreira-83/Artigo_1_revista_comp_lattices_thin_plate_2023_v_revisao)**
 
