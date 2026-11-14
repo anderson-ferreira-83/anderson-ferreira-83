@@ -17,31 +17,31 @@
 </p>
 
 <p align="center">
-  <a href="https://anderson-ferreira-83.github.io/"><img src="https://img.shields.io/badge/Portfolio-anderson--ferreira--83.github.io-003d7a?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/anderson-henrique-rodrigues-ferreira-1a473138/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://medium.com/@derdickferreira"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="mailto:a058899@dac.unicamp.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.kaggle.com/anderson83data"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="https://anderson-ferreira-83.github.io/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/anderson-henrique-rodrigues-ferreira-1a473138/">LinkedIn</a> ·
+  <a href="https://medium.com/@derdickferreira">Medium</a> ·
+  <a href="https://www.kaggle.com/anderson83data">Kaggle</a> ·
+  <a href="mailto:a058899@dac.unicamp.br">Email</a>
 </p>
 
 ---
 
-## 👤 Professional Profile
+## Professional Profile
 
 Applied Machine Learning and Data Science professional with a strong research background, focused on building and evaluating reliable solutions for **signal processing**, **sensor systems**, **IoT**, and real-world operational data.
 
 Currently a PhD candidate in Mechanical Engineering at UNICAMP (Vibroacoustics Laboratory).
 
-- 📄 Paper accepted at *Mechanical Systems and Signal Processing* (MSSP, 2026 · IF 8.9)
-- 🏆 AWS Certified AI Practitioner
-- 🎓 MSc in Mechanical Engineering — UNICAMP (2013) · BS in Physics — UNICAMP (2010)
-- 👨‍🏫 Adjunct Professor — Cruzeiro do Sul Educacional (Feb 2025–present)
+- Paper accepted at *Mechanical Systems and Signal Processing* (MSSP, 2026 · IF 8.9)
+- AWS Certified AI Practitioner
+- MSc in Mechanical Engineering — UNICAMP (2013) · BS in Physics — UNICAMP (2010)
+- Adjunct Professor — Cruzeiro do Sul Educacional (Feb 2025–present)
 
 Strong expertise in **model validation**, **feature engineering**, and **evaluation design**, with particular attention to data leakage, model reliability, and performance under real-world conditions.
 
 ---
 
-## 🎯 Industry Focus
+## Industry Focus
 
 - **End-to-end ML pipelines** · Sensor acquisition · Feature engineering · APIs · Databases · Model evaluation
 - **Sensor and IoT data** · ESP32 · Operational signals · Real-world data workflows
@@ -51,50 +51,30 @@ Strong expertise in **model validation**, **feature engineering**, and **evaluat
 
 ---
 
-## 🌐 Portfolio
+## Projects
 
-<p align="center">
-  Projects, CV, and research showcase:<br>
-  <strong><a href="https://anderson-ferreira-83.github.io/">anderson-ferreira-83.github.io</a></strong>
-</p>
+Project pages, live demos and documentation are available on the [portfolio](https://anderson-ferreira-83.github.io/#projetos).
 
-| Project | Highlights |
-| :--- | :--- |
-| **IoT End-to-End ML Pipeline** | ESP32 · 210k records · 104→16 features · Random Forest 97.34% ± 0.63% CV |
-| **Hypertension Risk Prediction** | SMOTE · 4,240 samples · Data leakage prevention · Multi-metric evaluation |
-| **MSSP Publication (2026)** | Signal processing · 5 geometries compared · Data-driven approach · IF 8.9 |
-
----
-
-## 🚀 Main Projects
-
-### 📡 IoT End-to-End ML Pipeline
-
-> End-to-end signal classification pipeline integrating **ESP32**, **FastAPI**, **Oracle XE**, and **Random Forest** across **210k records**.
->
-> → **[View repository](https://github.com/anderson-ferreira-83/oracle_fast_api_iot_esp32_MPU6050_project)**
-
-### 🩺 Hypertension Risk Prediction
-
-> Reliable imbalanced-class ML evaluation across **4,240 samples**, with **SMOTE**, data leakage prevention, multi-metric validation, and threshold analysis.
->
-> → **[View repository](https://github.com/anderson-ferreira-83/Hyperten_ML)**
-
-### 🤖 PhD Research — ML Applied
-
-> Applied machine learning for thin-plate vibroacoustic modeling, combining physical-domain knowledge with data-driven analysis.
->
-> → **[View repository](https://github.com/anderson-ferreira-83/machine_learning_mindlin_stl)**
-
-### 📄 MSSP Publication (IF 8.9)
-
-> Peer-reviewed research published in *Mechanical Systems and Signal Processing* (2026).
->
-> → **[View repository](https://github.com/anderson-ferreira-83/Artigo_1_revista_comp_lattices_thin_plate_2023_v_revisao)**
+| Project | Summary | Links |
+| :--- | :--- | :--- |
+| **IoT (ESP32 + MPU6050) Anomaly Detection** | Inertial-data anomaly detection for predictive maintenance, from the sensor to a production dashboard. 210k records · 104→16 features · Random Forest 97.34% ± 0.63% CV. Python · scikit-learn · AWS IoT · CloudFront · ESP32 · Oracle ADB | [Dashboard](https://d3rcs6b7bp6eub.cloudfront.net/) · [Docs](https://d3rcs6b7bp6eub.cloudfront.net/docs.html) · [Control](https://d3rcs6b7bp6eub.cloudfront.net/control.html) |
+| **Hyperten ML** | Hypertension prediction and risk stratification with a clinical inference interface in production. 4,240 samples · SMOTE · data leakage prevention · multi-metric evaluation. Python · scikit-learn · FastAPI · AWS CloudFront | [Project](https://anderson-ferreira-83.github.io/Hyperten_ML/) · [Clinical inference](https://dl52cpaeesvk0.cloudfront.net/ui/index.html) |
+| **PhD Research — Applied ML** | Applied machine learning for thin-plate vibroacoustic modeling, combining physical-domain knowledge with data-driven analysis. | [Portfolio — Research](https://anderson-ferreira-83.github.io/#pesquisa) |
+| **Band Gap Prediction — Acoustic Metamaterials** *(in preparation)* | Band gap estimation in acoustic metamaterials using regression and geometric features. | [Portfolio — Projects](https://anderson-ferreira-83.github.io/#projetos) |
+| **Pipeline Leakage** *(in preparation)* | Pipeline leakage detection based on sensor signals and predictive models. | [Portfolio — Projects](https://anderson-ferreira-83.github.io/#projetos) |
 
 ---
 
-## 💻 Technical Skills
+## Publication
+
+**Bandgap optimization in locally resonant metamaterial plates**
+*Mechanical Systems and Signal Processing* · Open Access · 2026 · IF 8.9
+
+Comparative study of five lattice geometries for low-frequency wave attenuation. [Access publication](https://www.sciencedirect.com/science/article/abs/pii/S0888327025014487?via%3Dihub)
+
+---
+
+## Technical Skills
 
 **Domain** · Physics · Signal Processing · Sensor Systems · Statistical Modeling · Data-Driven Analysis
 
@@ -104,40 +84,8 @@ Strong expertise in **model validation**, **feature engineering**, and **evaluat
 
 **Visualization** · Matplotlib · Seaborn · Plotly
 
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI">
-  <img src="https://img.shields.io/badge/MATLAB-%23e16737.svg?style=for-the-badge&logo=Mathworks&logoColor=white" alt="MATLAB">
-</p>
-
 ---
 
-## ⚙️ GitHub Analytics
+## Personal
 
-<p align="center">
-  <a href="https://github.com/anderson-ferreira-83"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anderson-ferreira-83&theme=github_dark" width="340" alt="GitHub statistics"></a>
-  <a href="https://github.com/anderson-ferreira-83"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anderson-ferreira-83&theme=github_dark" width="340" alt="Top languages"></a>
-</p>
-
----
-
-## 🎸 Fun Fact
-
-🎶 Passionate about music — I play both acoustic and electric guitar!
+Passionate about music — I play both acoustic and electric guitar.
